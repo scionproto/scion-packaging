@@ -1,0 +1,8 @@
+Package: scion-utils
+Version: 0.1-2
+Section: net
+Priority: optional
+Architecture: amd64
+Maintainer: Lukas Bischofberger <bischofberger@anapaya.net>
+Description: Useful utils for debugging a SCION network
+Depends: libwireshark8 (>= 2.2.6), libwireshark8 (<< 2.2.7)
