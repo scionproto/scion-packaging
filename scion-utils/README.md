@@ -1,6 +1,6 @@
 # SCION Utils
 
-This repo contains the control files to create a `scion-utils` debian package. This includes
+This repo contains the control files to create a `scion-utils` debian package. This includes:
 
 -   scmp
 -   showpaths
