@@ -20,4 +20,6 @@ to binaries to `usr/bin`.
 Update the changelog and gzip it: 
 `gzip --best --keep scion-utils/usr/share/doc/scion-utils/changelog`
 
-Then build the package with `fakeroot dpkg-deb --build scion-utils`.
+Then build the package with `fakeroot dpkg-deb --build scion-utils`. Rename it according its
+version, e.g.: `mv scion-utils.deb scion-utils_0.1-1.deb`
+

@@ -1,5 +1,7 @@
 Package: scion-utils
 Version: 0.1-1
+Section: net
+Priority: optional
 Architecture: amd64
 Maintainer: Lukas Bischofberger <bischofberger@anapaya.net>
 Description: Useful utils for debugging a SCION network
