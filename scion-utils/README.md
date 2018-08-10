@@ -23,3 +23,5 @@ Update the changelog and gzip it:
 Then build the package with `fakeroot dpkg-deb --build scion-utils`. Rename it according its
 version, e.g.: `mv scion-utils.deb scion-utils_0.1-1.deb`
 
+## Deploy
+Copy the package to `apt.scionproto.net` and follow the README.
