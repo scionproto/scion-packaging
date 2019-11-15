@@ -1,3 +1,9 @@
+scion-utils (0.1-3) xenial; urgency=medium
+
+  * New release of showpaths and scmp
+
+ -- Lukas Bischofberger <bischofberger@anapaya.net>  Thu, 21 Feb 2018 12:41:13 +0100
+
 scion-utils (0.1-2) xenial; urgency=medium
 
   * Add scion wireshark plugin
