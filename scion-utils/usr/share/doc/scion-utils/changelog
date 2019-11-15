@@ -1,8 +1,8 @@
-scion-utils (0.1-5) xenial; urgency=medium
+scion-utils (0.2-1) xenial; urgency=medium
 
   * Update code to v0.4.0
 
- -- Lukas Bischofberger <bischofberger@anapaya.net>  Fri, 15 Nov 2019 08:58:13 +0100
+ -- Lukas Bischofberger <bischofberger@anapaya.net>  Fri, 15 Nov 2019 09:36:13 +0100
 
 scion-utils (0.1-4) xenial; urgency=medium
 
