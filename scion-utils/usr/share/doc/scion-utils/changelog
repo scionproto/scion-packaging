@@ -1,3 +1,9 @@
+scion-utils (0.1-4) xenial; urgency=medium
+
+  * Put the wireshark plugin into the system dir, instead of a specific version
+
+ -- Lukas Bischofberger <bischofberger@anapaya.net>  Fri, 22 Feb 2018 16:56:13 +0100
+
 scion-utils (0.1-3) xenial; urgency=medium
 
   * New release of showpaths and scmp
